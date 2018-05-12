@@ -1,9 +1,15 @@
-## weibo-spider
+# weibo-spider
 
-#A Sina Weibo spider wrote by python.
+A Sina Weibo spider wrote by python.
 
-Account Spider Environment:
+Account Spider Runtime Environment:
 
-    python 3.6.4(anacnonda)
+    Python 3.6.4(anacnonda)
     
-    redis 3.0.6
+    Redis 3.0.6
+
+Content Spider Runtime Environment:
+
+    Python 3.6.4
+    
+    MySql
