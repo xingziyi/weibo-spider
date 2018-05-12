@@ -1,6 +1,6 @@
 # weibo-spider
 
-**<font size=8>A Sina Weibo spider wrote by python.</font>**
+## A Sina Weibo spider wrote by python.
 
 Account Spider Runtime Environment:
 
