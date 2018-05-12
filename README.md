@@ -2,7 +2,7 @@
 
 A Sina Weibo spider wrote by python.
 
-Environment:
+Account Spider Environment:
 
     python 3.6.4(anacnonda)
     
